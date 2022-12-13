@@ -1,3 +1,3 @@
-Olá Mundo 😁!!
+Hello World 😁!!!
 
-Me chamo Nathan Mateus e meu objetivo é tornar o mundo da computação mais acessível possível ao consumidor final através de ferramentas técnicas possibilitando a ele uma experiência inesquecível ! 
+My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools enabling them to have an unforgettable experience!
