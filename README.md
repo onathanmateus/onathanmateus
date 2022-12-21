@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World 😁!!!<br>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience!
+<h1>Hello World 😁!!!</h1><br> My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience!
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ Hello World 😁!!!<br>My name is Nathan Mateus and my goal is to make the world
 ![](https://github-readme-stats.vercel.app/api?username=onathanmateus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onathanmateus&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onathanmateus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=onathanmateus&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
