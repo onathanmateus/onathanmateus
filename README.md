@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1>Hello World 😁!!!</h1><br> My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience!
+<h1>Hello World 😁!!!</h1><br> <h2>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience!</h2>
 
 
 ## 🌐 Socials:
