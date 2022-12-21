@@ -1,8 +1,18 @@
-<h1>Olá Mundo 😁!!!</h1>
-<hr>
-<p>Meu nome é Nathan Mateus e meu objetivo é tornar o mundo da computação o mais acessível possível para o consumidor final através de ferramentas técnicas que lhes permitam ter uma experiência inesquecível!</p>
-<p>Entre em contato:</p>
-<ul>
-    <li><a href="https://twitter.com/onathanmateus" target="_blank">Twitter</a>
-    <li><a href="https://www.linkedin.com/in/onathanmateus/" target="_blank">Linkedin</a>
-</ul>
+# 💫 About Me:
+Hello World 😁!!!<br>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience!
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onathanmateus) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onathanmateus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onathanmateus) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/onathanmateus) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onathanmateus) 
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=onathanmateus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=onathanmateus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onathanmateus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=onathanmateus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
