@@ -10,3 +10,5 @@ HELLO WORLD 😁!!!<br> <p>My name is Nathan Mateus and my goal is to make the w
 ## 💻 Github Stats:
 [![card](https://github-readme-stats.vercel.app/api?username=onathanmateus&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=onathanmateus&hide=html&layout=compact=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+![Snake animation](https://github.com/onathanmateus/onathanmateus/blob/output/github-contribution-grid-snake.svg)
