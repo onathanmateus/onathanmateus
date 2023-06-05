@@ -16,5 +16,5 @@ HELLO WORLD 😁!!! <br> <p>My name is Nathan Mateus and my goal is to make the 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ## 💻 Github Stats:
-![card](https://github-readme-stats.vercel.app/api?username=onathanmateus&theme=dracula&show_icons=true) ![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=onathanmateus&hide=html&layout=compact=true&theme=dracula) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=onathanmateus&theme=dracula) ![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=onathanmateus&theme=dracula) 
 
