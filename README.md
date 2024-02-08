@@ -1,6 +1,6 @@
 ## 👋 About Me:
 
-HELLO WORLD 😁!!! <br> <p>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience.</p> <p>I'm currently studying REACT.JS / NEXT.JS, TYPESCRIPT and NODE. JS in order to further specialize in Front-end and Back-end web frameworks (I already have experience in HTML5, CSS3, BOOTSTRAP, TAILWIND, JAVASCRIPT, JAVA, GIT/GITHUB and also with design tools such as FIGMA and GIMP), my next goal is to study REACT NATIVE in the near future, all the time I am studying and creating practical projects in order to improve learning (all of them are available on my Github profile).</p>
+HELLO WORLD 😁!!! <br> <p>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience.</p> <p>I'm currently studying REACT.JS / NEXT.JS, TYPESCRIPT and NODE. JS in order to further specialize in Front-end and Back-end web frameworks (I already have experience in HTML5, CSS3, BOOTSTRAP, TAILWIND, JAVASCRIPT, JAVA, GIT/GITHUB and have basic experience with design tools such as FIGMA and GIMP), my next goal is to study REACT NATIVE in the near future, all the time I am studying and creating practical projects (all of them are available on my Github profile) in addition to actively participating in volunteer projects (acting in a Full-stack way) in order to improve learning.</p>
 
 ## 🌐 Socials:
 
