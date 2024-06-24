@@ -3,7 +3,7 @@
 HELLO WORLD 😁!!! <br> 
 <p>My name is Nathan Mateus and my goal is to make the world of computing as accessible as possible to the end consumer through technical tools that allow them to have an unforgettable experience.</p> 
 <p>Currently, I am deeply engaged as a Junior Systems Analyst, specializing in the ADVPL and TLPP languages within the sophisticated Protheus systems. I am honing my expertise in these languages to develop robust and efficient solutions that meet the complex demands of modern businesses.</p>
-<p>In addition to my proficiency in ADVPL and TLPP, I bring extensive experience in REACT.JS, HTML, CSS, BOOTSTRAP, TAILWIND, and JAVASCRIPT. These skills enable me to craft dynamic and intuitive interfaces that elevate user interactions and satisfaction.</p>
+<p>In addition to my proficiency in ADVPL and TLPP, I bring experience in REACT.JS, HTML, CSS, BOOTSTRAP, TAILWIND, and JAVASCRIPT. These skills enable me to craft dynamic and intuitive interfaces that elevate user interactions and satisfaction.</p>
 <p>Driven by a passion for innovation and a relentless pursuit of excellence, I continually push the boundaries of what is possible in technology. I am committed to staying ahead of industry trends, ensuring that every project I undertake not only meets but exceeds expectations, delivering exceptional value and user experience.</p>
 
 ## 🌐 Socials:
