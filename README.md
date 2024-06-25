@@ -6,11 +6,6 @@ HELLO WORLD 😁!!! <br>
 <p>In addition to my proficiency in ADVPL and TLPP, I bring experience in REACT.JS, HTML, CSS, BOOTSTRAP, TAILWIND, and JAVASCRIPT. These skills enable me to craft dynamic and intuitive interfaces that elevate user interactions and satisfaction.</p>
 <p>Driven by a passion for innovation and a relentless pursuit of excellence, I continually push the boundaries of what is possible in technology. I am committed to staying ahead of industry trends, ensuring that every project I undertake not only meets but exceeds expectations, delivering exceptional value and user experience.</p>
 
-## 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onathanmateus)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onathanmateus) 
-
 ## 🧑‍💻 My Skills:
 
 ### Languages, libraries and frameworks:
@@ -26,3 +21,8 @@ HELLO WORLD 😁!!! <br>
 
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onathanmateus)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onathanmateus) 
