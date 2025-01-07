@@ -2,7 +2,7 @@
 
 HELLO WORLD 😁!!! <br> 
 <p>I currently work as a Junior Systems Analyst, focusing mainly on the Protheus system and the ADVPL and TLPP languages. My experience is focused on developing robust, customized solutions, meeting business needs efficiently and making the most of the functionalities that Protheus offers. I have dedicated my time to improving my skills in these languages, ensuring the delivery of results that optimize processes and add value to the business. </p>
-<p>Although my current focus is on working with Protheus, I also have experience in web technologies, such as HTML, CSS, BOOTSTRAP, TAILWIND, JAVASCRIPT and REACT.JS. This knowledge allows me to work on integrations or develop complementary solutions whenever necessary, taking advantage of these tools to create dynamic and intuitive interfaces that meet specific demands. In this way, I am able to combine my specialization in Protheus with my skills in web technologies to offer complete and efficient solutions.</p>
+<p>Although my current focus is on working with Protheus, I also have experience in web technologies, such as HTML, CSS, BOOTSTRAP, TAILWIND, JAVASCRIPT, REACT.JS and NEXT.JS. This knowledge allows me to work on integrations or develop complementary solutions whenever necessary, taking advantage of these tools to create dynamic and intuitive interfaces that meet specific demands. In this way, I am able to combine my specialization in Protheus with my skills in web technologies to offer complete and efficient solutions.</p>
 
 ## 🧑‍💻 My Skills:
 
