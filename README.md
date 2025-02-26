@@ -1,7 +1,7 @@
 ## 👋 About Me:
 
 HELLO WORLD 😁!!! <br> 
-<p>Since the beginning of my career as a self-taught programmer, I have dedicated myself to learning and applying knowledge that goes beyond theory. I've taken part in volunteer projects and challenging initiatives, where I've been able to grow and improve my skills, especially in web technologies. Today, I have experience in web tools such as HTML, CSS, BOOTSTRAP, TAILWINDCSS, JAVASCRIPT, NODE.JS, REACT.JS and NEXT.JS, which allows me to develop dynamic, intuitive interfaces aimed at solving real problems.</p>
+<p>Since the beginning of my career as a self-taught programmer, I have dedicated myself to learning and applying knowledge that goes beyond theory. I've taken part in volunteer projects and challenging initiatives, where I've been able to grow and improve my skills, especially in web technologies. Today, I have experience in web tools such as HTML, CSS, BOOTSTRAP, TAILWINDCSS, JAVASCRIPT, NODE.JS and REACT.JS, which allows me to develop dynamic, intuitive interfaces aimed at solving real problems.</p>
 <p>I currently work as a Junior Systems Analyst, focusing on the Protheus system and the ADVPL language. My experience is focused on developing robust, customized solutions, making the most of Protheus' functionalities to meet business demands. I also use my knowledge of web technologies to create integrations and complementary solutions, ensuring efficiency and innovation in each project.</p>
 
 ## 🧑‍💻 My Skills:
@@ -15,7 +15,6 @@ HELLO WORLD 😁!!! <br>
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.Js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React.Js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.Js](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ### Development Tools:
 
